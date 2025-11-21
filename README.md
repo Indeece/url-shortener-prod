@@ -57,4 +57,4 @@ Redirects (HTTP 302) to the original long URL.
 Build and run with Docker Compose:
 
 ```bash
-docker-compose up --build
+docker-compose up -d
