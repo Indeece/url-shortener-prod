@@ -48,3 +48,5 @@ mvnw.cmd
 dump.rdb
 appendonly.aof
 
+HELP.md
+.gitattributes
